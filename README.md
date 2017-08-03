@@ -1,2 +1,3 @@
-# hello_world
-start_learning
+# hello-world
+start-to-learn
+want-to-do-something-about-data-analyist
